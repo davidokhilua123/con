@@ -1,0 +1,12 @@
+body{
+  background-color: #FCF9EA;
+  font-family: Papyrus;
+  font-size: 28px;
+  text-align: center;
+  text-shadow: 3px 3px 3px #ababab;
+
+}
+
+h4,h2:hover{
+  color: #40514E;
+}
